@@ -1,6 +1,9 @@
 db:
-        host: 127.0.0.1
-        port: 3306
-        user: www-data
-        password: www-data
-        database: awesome 
+  host: 127.0.0.1  
+  port: 3306
+  user: public 
+  password: 1234
+  database: menagerie
+  charset: utf8
+  autocommit: True
+ 
